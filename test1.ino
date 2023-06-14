@@ -9,7 +9,7 @@
 
 const char* ssid = "iPhone 11";
 const char* password = "Hieu2002";
-const char* mqtt_server = "broker.mqttdashboard.com"; //broker.mqttdashboard.com
+const char* mqtt_server = "broker.mqttdashboard.com"; //broker.mqttdashboard.com hello
 
 
 #define MQTT_LED_TOPIC "MQTT_ESP32/LED"
